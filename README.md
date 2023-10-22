@@ -1,4 +1,4 @@
-# OIBSIP_Task2
+# Number Guessing Game
 In the project "NUMBER GUESSING GAME"
 
 1.The system generates a random number in between 1 to 100.
