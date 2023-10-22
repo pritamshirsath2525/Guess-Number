@@ -1,5 +1,6 @@
 # OIBSIP_Task2
 In the project "NUMBER GUESSING GAME"
+
 1.The system generates a random number in between 1 to 100.
 2.The user is prompted to enter their given number in a displayed dialogue box.
 3.If we can't guess the number, we can give up and then the computer tells us the number.
